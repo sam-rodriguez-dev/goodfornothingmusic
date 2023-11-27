@@ -1,0 +1,22 @@
+html { 
+    background: url(img/shed51.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: Verdana, sans-serif;
+  }
+
+.gfn {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #C70039;
+    font-size: 2rem;
+}
+
+.gfn-sub {
+    font-size: 3rem;
+}
